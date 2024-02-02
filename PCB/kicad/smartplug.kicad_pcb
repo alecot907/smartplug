@@ -6037,7 +6037,7 @@
     (property "ki_keywords" "mounting hole")
     (path "/eaa7450d-3a78-4f54-b267-5efe8ce0cdad/506a99f2-4427-4b0f-b382-7f0077f01877")
     (attr exclude_from_pos_files)
-    (fp_text reference "H3" (at 0 -2.75) (layer "F.SilkS")
+    (fp_text reference "H3" (at 0.2 3.2) (layer "F.SilkS")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 331febdb-919a-4131-9be6-bdac6ea77a20)
     )
