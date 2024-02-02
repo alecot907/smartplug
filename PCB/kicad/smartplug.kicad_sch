@@ -1,0 +1,94 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 85f97cef-95fb-4a05-880a-b699f4dd7284)
+
+  (paper "A4")
+
+  (title_block
+    (title "smartplug")
+    (date "2023-06-30")
+    (rev "0")
+    (company "Alessio Cota")
+  )
+
+  (lib_symbols
+  )
+
+
+  (text "Smartplug" (at 13.97 21.59 0)
+    (effects (font (size 5 5) (thickness 1) bold) (justify left bottom))
+    (uuid 33dbbbb0-0bb8-4966-abd6-189fcad6f0c4)
+  )
+
+  (sheet (at 48.26 33.02) (size 16.51 11.43) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 481807e6-4f6a-4199-a424-22ff4a5dffbf)
+    (property "Sheetname" "power" (at 48.26 32.3084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "power.kicad_sch" (at 48.26 45.0346 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "smartplug"
+        (path "/85f97cef-95fb-4a05-880a-b699f4dd7284" (page "3"))
+      )
+    )
+  )
+
+  (sheet (at 101.6 33.02) (size 16.51 11.43) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 538c9139-255d-425a-8a58-7f0e8897016f)
+    (property "Sheetname" "uC" (at 101.6 32.3084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "uC.kicad_sch" (at 101.6 45.0346 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "smartplug"
+        (path "/85f97cef-95fb-4a05-880a-b699f4dd7284" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 74.93 33.02) (size 16.51 11.43) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 5e43e972-422a-4dae-8dd2-68614bca60dd)
+    (property "Sheetname" "sensors" (at 74.93 32.3084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "sensors.kicad_sch" (at 74.93 45.0346 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "smartplug"
+        (path "/85f97cef-95fb-4a05-880a-b699f4dd7284" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 20.32 33.02) (size 16.51 11.43) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid eaa7450d-3a78-4f54-b267-5efe8ce0cdad)
+    (property "Sheetname" "interfaces" (at 20.32 32.3084 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "interfaces.kicad_sch" (at 20.32 45.0346 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "smartplug"
+        (path "/85f97cef-95fb-4a05-880a-b699f4dd7284" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
