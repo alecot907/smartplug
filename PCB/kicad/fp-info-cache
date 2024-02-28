@@ -1,4 +1,4 @@
-21844582087989312
+21849709451226113
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90321,6 +90321,13 @@ Connector
 10
 10
 alecot
+1227ASH100MP2
+1211 (3028) T=1.8mm
+Inductor
+0
+2
+2
+alecot
 151033RS03000
 151033RS03000-2
 LED
@@ -90435,6 +90442,13 @@ Capacitor
 alecot
 CAPC1608X100N
 GCJ18 L=1.6mm W=0.8mm T=0.8mm
+Capacitor
+0
+2
+2
+alecot
+CAPC2012X135N
+GRT21 L=2.0mm W=1.25mm T=1.25mm
 Capacitor
 0
 2
@@ -90747,6 +90761,13 @@ Integrated Circuit
 0
 4
 4
+alecot
+VXO780121000
+VXO78012-1000
+Power Supply
+0
+3
+3
 alecot
 WE-PMI_080562
 WE-PMI_080562
