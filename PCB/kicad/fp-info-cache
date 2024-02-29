@@ -1,4 +1,4 @@
-21849709451226113
+21858257785524697
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90314,6 +90314,13 @@ Connector
 10
 10
 alecot
+101181920002LF
+10118192-0002LF-1
+Connector
+0
+11
+11
+alecot
 1016435900011LF
 10164359-00011LF-1
 Connector
@@ -90321,12 +90328,26 @@ Connector
 10
 10
 alecot
+800SP9B5M6RE
+800SP9B5M6RE-2
+Switch
+0
+4
+4
+alecot
 1227ASH100MP2
 1211 (3028) T=1.8mm
 Inductor
 0
 2
 2
+alecot
+5023
+5023-1
+Test Point
+0
+1
+1
 alecot
 151033RS03000
 151033RS03000-2
@@ -90657,6 +90678,13 @@ Crystal or Oscillator
 4
 4
 alecot
+PB400OAQX
+PB400OAQX-4
+Switch
+0
+4
+4
+alecot
 PCM12SMTR
 PCM12SMTR-1
 Switch
@@ -90705,6 +90733,13 @@ Integrated Circuit
 0
 9
 9
+alecot
+SMACONNECTOR
+SMA CONNECTOR-4
+Connector
+0
+5
+5
 alecot
 SODFL1608X70N
 SOD-523
