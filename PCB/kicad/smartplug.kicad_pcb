@@ -7503,7 +7503,7 @@
   (gr_text "3V3" (at 174.6 107 90) (layer "F.SilkS") (tstamp 57b98658-e569-4002-b444-5e2eb00e1039)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
   )
-  (gr_text "Smartplug\nV1.0\n03/23\ncotaa" (at 85.3 143.4) (layer "F.SilkS") (tstamp 674f4d75-c80d-4f98-9aac-0bd6e0b16fd7)
+  (gr_text "Smartplug\nV1.0\n03/24\ncotaa" (at 85.3 143.4) (layer "F.SilkS") (tstamp 674f4d75-c80d-4f98-9aac-0bd6e0b16fd7)
     (effects (font (size 1.25 1.25) (thickness 0.2)) (justify left bottom))
   )
   (gr_text "3V3" (at 158 115.9) (layer "F.SilkS") (tstamp 69342ee2-7501-45c8-b878-73c8c044b798)
